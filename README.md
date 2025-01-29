@@ -8,12 +8,11 @@
 1. **Download or Clone the Repository:**
    - If the files are on GitHub, run:
      ```sh
-     git clone https://github.com/your-username/javascript-basics.git
+     git clone https://github.com/NicholesBuksinski/Prog2700_Assignment_2
      ```
-   - Alternatively, download the ZIP file and extract it.
 
 2. **Open `index.html`:**
-   - Locate the `index.html` file in your project folder.
+   - Locate the `index.html` file in the project folder.
    - Double-click to open it in a web browser.
 
 3. **View Console Output:**
